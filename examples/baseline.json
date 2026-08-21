@@ -1,0 +1,324 @@
+{
+  "corpus": {
+    "wer": 0.043011,
+    "cer": 0.034169,
+    "utterances": 12,
+    "word": {
+      "equal": 90,
+      "substitutions": 2,
+      "deletions": 1,
+      "insertions": 1,
+      "errors": 4,
+      "reference_length": 93
+    },
+    "char": {
+      "equal": 430,
+      "substitutions": 1,
+      "deletions": 8,
+      "insertions": 6,
+      "errors": 15,
+      "reference_length": 439
+    },
+    "wer_interval": {
+      "low": 0.010989,
+      "high": 0.076087,
+      "confidence": 0.95
+    }
+  },
+  "normalizer": {
+    "lowercase": true,
+    "strip_punctuation": true,
+    "expand_contractions": true,
+    "drop_fillers": false,
+    "collapse_whitespace": true,
+    "unicode_form": "NFKC",
+    "fillers": [
+      "uh",
+      "uhm",
+      "um",
+      "erm",
+      "hmm",
+      "mhm",
+      "eh",
+      "ah"
+    ]
+  },
+  "utterances": [
+    {
+      "id": "utt-0001",
+      "wer": 0.0,
+      "cer": 0.0,
+      "word": {
+        "equal": 9,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 9
+      },
+      "char": {
+        "equal": 35,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 35
+      },
+      "reference": "the quick brown fox jumps over the lazy dog",
+      "hypothesis": "the quick brown fox jumps over the lazy dog"
+    },
+    {
+      "id": "utt-0002",
+      "wer": 0.111111,
+      "cer": 0.020408,
+      "word": {
+        "equal": 8,
+        "substitutions": 1,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 1,
+        "reference_length": 9
+      },
+      "char": {
+        "equal": 48,
+        "substitutions": 0,
+        "deletions": 1,
+        "insertions": 0,
+        "errors": 1,
+        "reference_length": 49
+      },
+      "reference": "please transfer two hundred dollars to my savings account",
+      "hypothesis": "please transfer two hundred dollars to my saving account"
+    },
+    {
+      "id": "utt-0003",
+      "wer": 0.0,
+      "cer": 0.0,
+      "word": {
+        "equal": 5,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 5
+      },
+      "char": {
+        "equal": 15,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 15
+      },
+      "reference": "can you hear me now",
+      "hypothesis": "can you hear me now"
+    },
+    {
+      "id": "utt-0004",
+      "wer": 0.111111,
+      "cer": 0.045455,
+      "word": {
+        "equal": 8,
+        "substitutions": 1,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 1,
+        "reference_length": 9
+      },
+      "char": {
+        "equal": 43,
+        "substitutions": 1,
+        "deletions": 0,
+        "insertions": 1,
+        "errors": 2,
+        "reference_length": 44
+      },
+      "reference": "the meeting is scheduled for tuesday at three thirty",
+      "hypothesis": "the meeting is scheduled for thursday at three thirty"
+    },
+    {
+      "id": "utt-0005",
+      "wer": 0.0,
+      "cer": 0.0,
+      "word": {
+        "equal": 10,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 10
+      },
+      "char": {
+        "equal": 35,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 35
+      },
+      "reference": "i would like to book a table for four people",
+      "hypothesis": "i would like to book a table for four people"
+    },
+    {
+      "id": "utt-0006",
+      "wer": 0.125,
+      "cer": 0.166667,
+      "word": {
+        "equal": 7,
+        "substitutions": 0,
+        "deletions": 1,
+        "insertions": 0,
+        "errors": 1,
+        "reference_length": 8
+      },
+      "char": {
+        "equal": 35,
+        "substitutions": 0,
+        "deletions": 7,
+        "insertions": 0,
+        "errors": 7,
+        "reference_length": 42
+      },
+      "reference": "what is the weather forecast for tomorrow morning",
+      "hypothesis": "what is the weather forecast for tomorrow"
+    },
+    {
+      "id": "utt-0007",
+      "wer": 0.0,
+      "cer": 0.0,
+      "word": {
+        "equal": 8,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 8
+      },
+      "char": {
+        "equal": 33,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 33
+      },
+      "reference": "my account number is four seven two nine",
+      "hypothesis": "my account number is four seven two nine"
+    },
+    {
+      "id": "utt-0008",
+      "wer": 0.0,
+      "cer": 0.0,
+      "word": {
+        "equal": 8,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 8
+      },
+      "char": {
+        "equal": 35,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 35
+      },
+      "reference": "could you repeat that one more time please",
+      "hypothesis": "could you repeat that one more time please"
+    },
+    {
+      "id": "utt-0009",
+      "wer": 0.0,
+      "cer": 0.0,
+      "word": {
+        "equal": 8,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 8
+      },
+      "char": {
+        "equal": 45,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 45
+      },
+      "reference": "the shipment arrived at the warehouse this afternoon",
+      "hypothesis": "the shipment arrived at the warehouse this afternoon"
+    },
+    {
+      "id": "utt-0010",
+      "wer": 0.142857,
+      "cer": 0.151515,
+      "word": {
+        "equal": 7,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 1,
+        "errors": 1,
+        "reference_length": 7
+      },
+      "char": {
+        "equal": 33,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 5,
+        "errors": 5,
+        "reference_length": 33
+      },
+      "reference": "send the report to the engineering team",
+      "hypothesis": "send the report to the engineering team today"
+    },
+    {
+      "id": "utt-0011",
+      "wer": 0.0,
+      "cer": 0.0,
+      "word": {
+        "equal": 6,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 6
+      },
+      "char": {
+        "equal": 30,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 30
+      },
+      "reference": "i need to reschedule my appointment",
+      "hypothesis": "i need to reschedule my appointment"
+    },
+    {
+      "id": "utt-0012",
+      "wer": 0.0,
+      "cer": 0.0,
+      "word": {
+        "equal": 6,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 6
+      },
+      "char": {
+        "equal": 43,
+        "substitutions": 0,
+        "deletions": 0,
+        "insertions": 0,
+        "errors": 0,
+        "reference_length": 43
+      },
+      "reference": "the server response time increased significantly",
+      "hypothesis": "the server response time increased significantly"
+    }
+  ]
+}

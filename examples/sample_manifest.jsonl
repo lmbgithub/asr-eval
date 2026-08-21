@@ -1,0 +1,12 @@
+{"id": "utt-0001", "reference": "the quick brown fox jumps over the lazy dog", "hypothesis": "the quick brown fox jumps over the lazy dog", "duration_s": 3.65}
+{"id": "utt-0002", "reference": "please transfer two hundred dollars to my savings account", "hypothesis": "please transfer two hundred dollars to my saving account", "duration_s": 4.35}
+{"id": "utt-0003", "reference": "can you hear me now", "hypothesis": "can you hear me now", "duration_s": 2.45}
+{"id": "utt-0004", "reference": "the meeting is scheduled for tuesday at three thirty", "hypothesis": "the meeting is scheduled for thursday at three thirty", "duration_s": 4.1}
+{"id": "utt-0005", "reference": "i would like to book a table for four people", "hypothesis": "i would like to book a table for four people", "duration_s": 3.7}
+{"id": "utt-0006", "reference": "what is the weather forecast for tomorrow morning", "hypothesis": "what is the weather forecast for tomorrow", "duration_s": 3.95}
+{"id": "utt-0007", "reference": "my account number is four seven two nine", "hypothesis": "my account number is four seven two nine", "duration_s": 3.5}
+{"id": "utt-0008", "reference": "could you repeat that one more time please", "hypothesis": "could you repeat that one more time please", "duration_s": 3.6}
+{"id": "utt-0009", "reference": "the shipment arrived at the warehouse this afternoon", "hypothesis": "the shipment arrived at the warehouse this afternoon", "duration_s": 4.1}
+{"id": "utt-0010", "reference": "send the report to the engineering team", "hypothesis": "send the report to the engineering team today", "duration_s": 3.45}
+{"id": "utt-0011", "reference": "i need to reschedule my appointment", "hypothesis": "i need to reschedule my appointment", "duration_s": 3.25}
+{"id": "utt-0012", "reference": "the server response time increased significantly", "hypothesis": "the server response time increased significantly", "duration_s": 3.9}
